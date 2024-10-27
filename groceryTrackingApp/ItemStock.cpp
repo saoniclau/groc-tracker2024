@@ -1,0 +1,4 @@
+void itemStock(string filename)
+{
+	
+}
