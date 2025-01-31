@@ -3,7 +3,7 @@ reads grocery item list from txt file, converts the list into item\quantity pair
 search for the frequency of an item, print the key\quantity list in the terminal, or print a histogram of items. The problem this program tackles
 is helping grocery store employees determine how to set up and face their inventory by counting and giving a visual aid as they face ( which means to present inventory neatly in the aisle) items.
 
-One thing that I believe I did particularly well was ensure the code was written using best coding practices.
+Ensured the code was written using best coding practices.
 
 If there were a place for enhancements in my code, it would be utilizing exception handling, such as when providing anything other than
 an integer in the menu section of the program appears to cause a memory leak.
